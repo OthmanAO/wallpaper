@@ -37,5 +37,5 @@ while y < HEIGHT:
     y += FONT_SIZE  # Move to the next line
 
 # Save the wallpaper
-image.save("binary_hands_wallpaper_day.png")
-print("Wallpaper saved as 'binary_hands_wallpaper_day.png'")
+image.save("binary_hands_wallpaper_recent.png")
+print("Wallpaper saved as 'binary_hands_wallpaper_recent.png'")
